@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin:0 ;
+
+}
+body{
+    background-size:  cover;
+}
+.headtag{
+    background-color: black;
+
+}
+.login{
+    text-align: center;
+    margin-left: 35em;
+    margin-right: 35em;
+    border: 2px solid black;
+    margin-top: 2em;
+    margin-bottom:2em;
+}
+.example{
+    margin-right: 18em;
+    margin-left: 70em;
+}
